@@ -1,4 +1,5 @@
-//Este programa te permite introducir un valor en el comando de ejecución y le devuelve ese número primo
+//Este programa te permite introducir un valor en el comando de ejecución y calculará la suma de los n primeros números y la elevará al cuadrado,
+//y a esta suma le restará la suma del cuadrado de los n primeros números
 
 #include <iostream>
 #include "diferences_squares_func.h"

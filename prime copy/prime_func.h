@@ -1,1 +1,0 @@
-int n_primenumber (int position);
